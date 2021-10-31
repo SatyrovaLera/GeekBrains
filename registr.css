@@ -1,0 +1,109 @@
+.breadcrumb{
+    background-color: #F8F3F4;
+    height: 148px;
+}
+.breadcrumb__title{
+    font-family: Lato;
+    font-size: 24px;
+    line-height: 29px;    
+    color: #F16D7F;
+    padding: 59px 0 60px 230px;
+}
+.join{
+    padding: 64px 230px 96px 230px;
+}
+.join__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.join__form{
+    display: block;
+}
+.join__container__text{
+   width: 652px;
+}
+.join__container__subtitle{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 22px;
+}
+.join__container__paragraph{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 21px;
+}
+.join__container__list{
+    list-style-image: url(img/item.svg);
+    list-style-position: inside;      
+}
+.join__container__item{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.join__form{
+    width: 360px;
+}
+.label{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #222222;
+}
+.text{    
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    color: #B1B1B1;
+    padding: 13px 0 16px 17px;
+    width: 360px;
+    margin-bottom: 21px;
+}
+.text__one{
+    margin-top: 20px;
+}
+.button{
+    background-color: #F16D7F;
+    font-family: Lato;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    padding: 16px 66px 17px 29px;
+    border: none;
+}
+.radio{
+    margin-bottom: 33px;
+    margin-top: 13px;
+}
+.radio__margin{
+    margin-left: 20px;
+}
+.radio__label{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;       
+}
+.form__paragraph{
+    margin-bottom: 39px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    color: #B1B1B1;
+}
